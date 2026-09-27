@@ -8,7 +8,7 @@
 
 ---
 
-## 1. What is in this repo (after extraction)
+## 1. What is in this repo 
 
 ```
 allmite-addons/
